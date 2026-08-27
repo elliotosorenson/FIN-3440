@@ -1,4 +1,3 @@
-# elliotosorenson-cal-poly-finance-portfolio\
 # Elliot Sorenson | Real Estate Finance
 
 This repository contains my coursework, financial models, data analysis, and other analyst-focused work completed in FIN 3440 at Cal Poly San Luis Obispo.
